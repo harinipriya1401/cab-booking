@@ -7,7 +7,7 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="HandheldFriendly" content="True">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta name="description" content="Hello Everyone - HTML Template">
+		<meta name="description" content="Taxi GRABBER - HTML Template">
 		<meta name="author" content="Coffeecream Themes, info@coffeecream.eu">
 		<title>Hello Everyone - HTML Template</title>
 		<link rel="shortcut icon" href="images/favicon.png">
