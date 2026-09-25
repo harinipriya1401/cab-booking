@@ -94,7 +94,7 @@
 				<div class="slide">
 					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
 					<div class="slider-subtitle">ola-haripriya 24/7</div>
-					<div class="slider-title">89765-98765</div>
+					<div class="slider-title">7010859578</div>
 					<div class="slider-button"><a href="about.html" class="btn btn-primary">Read more about us</a></div>
 				</div>
 				<div class="slide">
