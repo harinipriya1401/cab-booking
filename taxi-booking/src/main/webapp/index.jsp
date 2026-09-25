@@ -7,9 +7,9 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="HandheldFriendly" content="True">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black">
-		<meta name="description" content="Hello Everone - HTML Template">
+		<meta name="description" content="Hello Everyone - HTML Template">
 		<meta name="author" content="Coffeecream Themes, info@coffeecream.eu">
-		<title>Hello Everone - HTML Template</title>
+		<title>Hello Everyone - HTML Template</title>
 		<link rel="shortcut icon" href="images/favicon.png">
 
 		<!-- Main Stylesheet -->
@@ -93,8 +93,8 @@
 			<div class="slider owl-carousel">
 				<div class="slide">
 					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
-					<div class="slider-subtitle">Call us 24/7</div>
-					<div class="slider-title">8121-416-416</div>
+					<div class="slider-subtitle">ola-haripriya 24/7</div>
+					<div class="slider-title">89765-98765</div>
 					<div class="slider-button"><a href="about.html" class="btn btn-primary">Read more about us</a></div>
 				</div>
 				<div class="slide">
